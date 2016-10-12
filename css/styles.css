@@ -1,0 +1,23 @@
+.size {
+  width: 800px;
+  height: 600px;
+}
+
+html {
+  background-color: #FFC0CB;
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+h2 {
+  color: #663399;
+  font-style: italic;
+}
+.best {
+color: #FF00FF;
+font-style: oblique;
+font-weight: bolder;
+}
